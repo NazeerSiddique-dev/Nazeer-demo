@@ -1,4 +1,4 @@
 # Nazeer-demo
 This is my first git repository.
 <br/>
-Author - Nazeer Ahmad Siddique
+Author - Nazeer Ahmad Siddique(Web Developer)
